@@ -17,7 +17,7 @@ Kelas= ("TI.22.B1")
 -  menampilkan tulisan "Hello"
 - Menampilkan tulisan "Saya sedang belajar pyton"
 
-![image](image\output-latihan1.png)
+![image](image/output-latihan1.png)
 
  ## Latihan 2 Menjumlahkan dua bilangan menggunakan variabel a dan b
 
@@ -27,7 +27,7 @@ Kelas= ("TI.22.B1")
  - mencetak nilai variabel a dan b
  - mencetak hasil penjumlahan a+b
 
-![image](image\output-latihan2.PNG)
+![image](image/output-latihan2.PNG)
 
 ## Latihan 3 Menjalankan IDLE
 
@@ -35,5 +35,5 @@ Kelas= ("TI.22.B1")
 - Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
 - Menggunakan fungsi input untuk mengambil nilai variable dari keyboard
 
-![image](image\output-latihan3.PNG)
+![image](image/output-latihan3.PNG)
 #lab2py
